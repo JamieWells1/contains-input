@@ -26,5 +26,3 @@ function canConstruct(ransom, magazine) {
     return true;
   }
 }
-
-canConstruct("aab", "baa");
